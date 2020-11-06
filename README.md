@@ -15,7 +15,7 @@ This project was originally begun to satisfy an assignment in a graduate level c
 
 # Figure Examples
 
-![The frequency domain of Handel's 'Messiah'](readme1.jpg)
+![The frequency domain of Handel's 'Messiah'](readme1.jpg)<br/>
 ![Comparing the resolution of narrow and wide Gabor filters](readme2.jpg)
 
 # Code Example
