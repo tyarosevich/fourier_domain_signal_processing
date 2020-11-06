@@ -17,3 +17,5 @@
 *.toc
 *.png
 *.wav
+!readme1.jpg
+!readme2.jpg
