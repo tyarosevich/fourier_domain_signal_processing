@@ -3,7 +3,7 @@
 
 # Using Windowed Fourier Transforms to Study Low-Pass Audio Filters and Signal Processing
 
-This project uses several types of windowed Fourier transforms to study music samples in a Time-Frequency domain. In particular, I study the tuning of such transforms, and the Heisenberg Uncertainty limitations on resolution in time and frequency. I also perform overtone filtering and study the efficacy of different window types for this task.
+This project uses several types of windowed Fourier transforms to study music samples in a Time-Frequency domain. In particular, I study the tuning of such transforms, and the Heisenberg Uncertainty limitations on resolution in time and frequency. I also perform overtone filtering and study the efficacy of different window types for this task. [Here](https://github.com/tyarosevich/fourier_domain_signal_processing/blob/master/Final%20Presentation%20for%20Github/time_freq_analysis_music.pdf) is a presentation on the project, including visualization, methods, and background.
 # Motivation
 
 This project was originally begun to satisfy an assignment in a graduate level course in Data Science and Scientific Computing in the University of Washington's Applied Mathematics program.
